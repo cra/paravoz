@@ -1,6 +1,7 @@
 package:
-	pyxel package . paravoz.py
+	pyxel package . parovoz.py
 
 
 html:
-	pyxel app2html paravoz.pyxapp
+	pyxel app2html parovoz.pyxapp
+	mv parovoz.html index.html
